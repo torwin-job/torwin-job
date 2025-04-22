@@ -15,37 +15,26 @@
 - 🔧 Готов брать ответственность за модули, улучшать архитектуру и писать чистый код
 
 ---
+## 🧰 Технологический стек
 
-## 🧰 Технологический стек:
-
-### 📌 Языки:
-`Python 3.8+` | `Bash`
-
-### 🌐 Веб-фреймворки:
-- Django + DRF 🧱
-- FastAPI ⚡
-- Flask 🍃
-
-### 🗃️ Базы данных и ORM:
-- PostgreSQL, MySQL 🐘
-- Redis (cache/pub-sub) 🧠
-- Django ORM, SQLAlchemy + Alembic
-
-### ⚙️ Асинхронщина:
-- asyncio / aiohttp 🌀
-- Celery + Redis/RabbitMQ 🐇
-
-### 📦 Контейнеризация и DevOps:
-- Docker, Docker Compose 🐳
-- Nginx (reverse proxy, SSL) 🚪
-
-### 🧪 Тестирование и документация:
-- Pytest, Unittest 🧪
-- Swagger / OpenAPI 🧾
-- Postman 📬
-
-### 📡 Протоколы:
-HTTP/HTTPS, REST, WebSocket, JWT, OAuth2, Socket 📡
+| Категория                | Технологии                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| 🐍 Языки                 | `Python 3.8+`, `Bash`                                                       |
+| 🌐 Веб-фреймворки        | `Django`, `Django REST Framework`, `FastAPI`, `Flask`                      |
+| 🗃️ Базы данных и ORM     | `PostgreSQL`, `MySQL`, `Redis`, `Django ORM`, `SQLAlchemy`, `Alembic`      |
+| ⚙️ Асинхронное программ. | `asyncio`, `aiohttp`, `FastAPI`, `Celery`, `Redis`, `RabbitMQ`             |
+| 📦 Контейнеризация       | `Docker`, `Docker Compose`, `Nginx`                                        |
+| 🧪 Тестирование           | `pytest`, `unittest`                                                       |
+| 📜 Документация API      | `Swagger / OpenAPI`, `Postman`                                             |
+| 🔐 Протоколы             | `HTTP`, `HTTPS`, `REST`, `WebSocket`, `JWT`, `OAuth2`, `Socket`            |
+| 🧱 Архитектура           | `DDD`, `Hexagonal`, `Onion`, `Layered`, `Clean Architecture`              |
+| 🧩 Паттерны              | `Factory`, `Builder`, `Adapter`, `Facade`, `Proxy`, `Observer`, `Strategy`, `Command` |
+| 📊 Работа с данными      | `requests`, `aiohttp`, `Pandas`, `NumPy`, `json`, `csv`, `pickle`          |
+| 🧲 Парсинг               | `BeautifulSoup`, `Scrapy`                                                  |
+| 🧩 Шаблоны               | `Jinja2`                                                                   |
+| 🐧 Linux/DevOps          | `Ubuntu`, `Debian`, `CentOS`, `systemd`, `iptables`, `UFW`, `SSH`, `cron` |
+| 🔧 Инструменты           | `htop`, `netstat`, `journalctl`, `dmesg`, `systemctl`                      |
+| 🌐 Фронтенд              | `Vue.js`, `Vuex`, `CORS`, `REST-интеграция`, `SPA + Nginx`                 |
 
 ---
 
