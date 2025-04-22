@@ -83,18 +83,6 @@
   </tr>
 </table>
 
----
-
-## 📈 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 💬 Контакты
 
 - 📬 Telegram: [@your_username](https://t.me/your_username)
