@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=435&lines=Python+Backend+Developer+%F0%9F%90%8D;REST+API+%7C+Django+%7C+FastAPI+%7C+Flask+%7C+Vue.js;Clean+Architecture+%7C+DDD+%7C+SOLID+%F0%9F%92%A1;Open+to+collaboration+%F0%9F%92%AC" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV6OHN0bWE5aGl3eXpzZmV4OGIwb29ob2ZhZ2V1OXFxZGMweWFtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VE4InmieSgVqM/giphy.gif
-" alt="Typing GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV6OHN0bWE5aGl3eXpzZmV4OGIwb29ob2ZhZ2V1OXFxZGMweWFtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VE4InmieSgVqM/giphy.gif" width="400" alt="Funny coder GIF">
 </p>
+
 
 ---
 
