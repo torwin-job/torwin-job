@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>🔐 Протоколы</td>
-    <td><code>REST</code>, <code>HTTP/HTTPS</code>, <code>JWT</code>, <code>OAuth2</code>, <code>WebSocket</code></td>
+    <td><code>REST</code>, <code>HTTP/HTTPS</code>, <code>JWT</code>,<code>WebSocket</code></td>
   </tr>
   <tr>
     <td>🧱 Архитектура</td>
