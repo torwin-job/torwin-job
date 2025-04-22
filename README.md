@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>⚙️ Асинхронность</td>
-    <td><code>asyncio</code>, <code>aiohttp</code>, <code>FastAPI</code>, <code>Celery</code>, <code>RabbitMQ</code></td>
+    <td><code>asyncio</code>, <code>aiohttp</code></td>
   </tr>
   <tr>
     <td>📦 Контейнеризация</td>
