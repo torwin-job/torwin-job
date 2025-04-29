@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Немного обо мне
 
-- 🔹 Junior+ **Python backend-разработчик**
+- 🔹 **Python backend-разработчик**
 - 🚀 Опыт в создании **REST API**, микросервисов, асинхронных сервисов
 - 🧠 Работаю с **Django**, **FastAPI**, **Flask**
 - 📦 Уверенно обращаюсь с **PostgreSQL**, **MySQL**, **Redis**, **Celery**
