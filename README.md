@@ -89,8 +89,8 @@
 
 ## 💬 Контакты
 
-- 📬 Telegram: [@your_username](https://t.me/your_username)
-- 📧 Email: your_email@example.com
+- 📬 Telegram: [@your_username](@Lojik23)
+
 
 ---
 
