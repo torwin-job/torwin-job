@@ -89,7 +89,7 @@
 
 ## 💬 Контакты
 
-- 📬 Telegram: [@your_username](@Lojik23)
+- 📬 Telegram:@Lojik23
 
 
 ---
