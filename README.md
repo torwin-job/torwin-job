@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td>📦 Контейнеризация</td>
-    <td><code>Docker</code>, <code>Docker Compose</code>, <code>Nginx</code></td>
+    <td><code>Docker</code>, <code>Docker Compose</code></td>
   </tr>
   <tr>
     <td>🧪 Тестирование</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>🧠 Linux & Tools</td>
-    <td><code>systemd</code>, <code>UFW</code>, <code>SSH</code>, <code>htop</code>, <code>journalctl</code></td>
+    <td><code>systemd</code>, <code>UFW</code>, <code>SSH</code>, <code>htop</code>, <code>journalctl</code>, <code>Nginx</code></td>
   </tr>
   <tr>
     <td>🌐 Фронтенд</td>
